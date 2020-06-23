@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Thor SG1",
+  "description" : "My Node JS FCC project",
   "dependencies": {
     "express": "^4.17.1"
   },
