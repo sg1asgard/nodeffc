@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "thorsg1",
+  "author": "Thor SG1",
   "dependencies": {
     "express": "^4.17.1"
   },
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://idontknow/todo.git"
+    "url": "https://github.com/sg1asgard/nodeffc"
   }
 }
